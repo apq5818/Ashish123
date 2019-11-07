@@ -1,4 +1,4 @@
-package com.jcombat;;
+package com.jcombat;;;
 
 public class test {
 
